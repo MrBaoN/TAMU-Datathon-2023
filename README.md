@@ -1,5 +1,5 @@
 # TAMU-Datathon-2023
-*Welcome to the TAMU Datathon Oct. 28, 2023 GitHub repository for Team: 45.*
+*Welcome to the TAMU Datathon Oct. 28-29, 2023 GitHub repository for Team: 45.*
 
 ## Overview
 *This repository contains all the resources, code, and data for our team's participation in the TAMU Datathon for 2023.
