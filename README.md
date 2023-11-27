@@ -3,7 +3,7 @@
 
 ## Overview
 *This repository contains all the resources, code, and data for our team's participation in the TAMU Datathon for 2023.
-Our project is training an ai model using a dataset to determine the accuracy of a patient surviving given
+Our project is training an AI model using a dataset to determine the accuracy of a patient surviving given
 the specifics of their condition.*
 
 **Debrief**
